@@ -1,5 +1,6 @@
 
 # phong
+# kristine
 # kyle 
 #marnie
 adam_nowland
@@ -8,3 +9,4 @@ Jamon
 #chris
 #nick
 LOUIS
+Turtle, turtle
